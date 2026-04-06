@@ -5,7 +5,7 @@
   <artifactId>sysgeeks</artifactId>
   <packaging>war</packaging>
   <version>3.0</version>
-  <name>web-app</name>
+  <name>maven-app</name>
   <url>http://maven.apache.org</url>
  
   <dependencies>
